@@ -1,5 +1,7 @@
 import numpy as np
 from xgboost import XGBClassifier
+import sklearn 
+
 
 #Data input = FACE SHAPE(3)--> IS ROUND? | IS OVAL? | IS SQUARE | HAS WHİSKERS? | EAR SHAPE-> IS POINTY? | IS FLAT?
 
